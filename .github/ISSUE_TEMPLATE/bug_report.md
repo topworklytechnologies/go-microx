@@ -3,7 +3,8 @@ name: Bug report
 about: Create a report to help us improve
 title: ''
 labels: bug
-assignees: ''
+assignees: abhishekkushwahaa
+type: Bug
 
 ---
 
@@ -33,14 +34,6 @@ A clear and concise description of what the bug is.
 
 * What should happen instead?
 * Describe the correct behavior clearly.
-
-#### **Environment**
-
-* **Frontend:** Flutter (version: ___)
-* **Backend:** Supabase
-* **Platform:** Android / iOS / Web
-* **App Version:** ___
-* **Device:** ___
 
 #### **Steps to Reproduce**
 
