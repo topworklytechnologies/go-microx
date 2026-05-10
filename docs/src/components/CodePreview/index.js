@@ -6,7 +6,7 @@ import { useEffect, useState } from "react";
 import styles from "./styles.module.css";
 
 const lines = [
-  "$ go install github.com/abhishekkushwahaa/go-microx/cmd/go-microx@latest",
+  "$ go install github.com/topworklytechnologies/go-microx/cmd/go-microx@latest",
   "$ go-microx new",
   "? Select a project template: E-commerce",
   "? Enter project name: myshop",
@@ -57,7 +57,7 @@ export default function CodePreview({ isHero }) {
               </Link>
               <Link
                 className={clsx("button button--lg", styles.buttonOutline)}
-                href="https://github.com/abhishekkushwahaa/go-microx"
+                href="https://github.com/topworklytechnologies/go-microx"
               >
                 GitHub
               </Link>

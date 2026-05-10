@@ -16,7 +16,7 @@ Please be respectful and professional in all interactions. We follow standard op
 
 ## Bug Reports
 
-If you find a bug, please [open an issue](https://github.com/abhishekkushwahaa/go-microx/issues) with:
+If you find a bug, please [open an issue](https://github.com/topworklytechnologies/go-microx/issues) with:
 
 - A clear description of the problem.
 - Steps to reproduce the issue.

@@ -4,13 +4,14 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "go-microx",
-  tagline: "The ultimate CLI tool to scaffold production-ready microservices in Go.",
+  tagline:
+    "The ultimate CLI tool to scaffold production-ready microservices in Go.",
   favicon: "img/logo4.png",
 
-  url: "https://gomicrox.abhishekkushwaha.tech",
+  url: "https://gomicrox.topworkly.com",
   baseUrl: "/",
 
-  organizationName: "abhishekkushwaha",
+  organizationName: "topworklytechnologies",
   projectName: "go-microx",
 
   onBrokenLinks: "throw",
@@ -28,7 +29,8 @@ const config = {
       ({
         docs: {
           sidebarPath: "./sidebars.js",
-          editUrl: "https://github.com/abhishekkushwahaa/go-microx/tree/main/docs/",
+          editUrl:
+            "https://github.com/topworklytechnologies/go-microx/tree/main/docs/",
         },
         blog: {
           showReadingTime: true,
@@ -36,7 +38,8 @@ const config = {
             type: ["rss", "atom"],
             xslt: true,
           },
-          editUrl: "https://github.com/abhishekkushwahaa/go-microx/tree/main/docs/",
+          editUrl:
+            "https://github.com/topworklytechnologies/go-microx/tree/main/docs/",
           onInlineTags: "warn",
           onInlineAuthors: "warn",
           onUntruncatedBlogPosts: "warn",
@@ -53,7 +56,11 @@ const config = {
     ({
       image: "img/docusaurus-social-card.jpg",
       metadata: [
-        { name: "keywords", content: "golang, microservices, cli, scaffolding, backend, gin, gRPC, docker" },
+        {
+          name: "keywords",
+          content:
+            "golang, microservices, cli, scaffolding, backend, gin, gRPC, docker",
+        },
       ],
       navbar: {
         logo: {
@@ -68,7 +75,7 @@ const config = {
             label: "Docs",
           },
           {
-            href: "https://github.com/abhishekkushwahaa/go-microx",
+            href: "https://github.com/topworklytechnologies/go-microx",
             label: "GitHub",
             position: "right",
           },
@@ -89,9 +96,15 @@ const config = {
           {
             title: "Community",
             items: [
-              { label: "GitHub", href: "https://github.com/abhishekkushwahaa/go-microx" },
-              { label: "LinkedIn", href: "https://www.linkedin.com/in/abhishekkushwahaa" },
-              { label: "X (Twitter)", href: "https://x.com/AbhishekKushwaa" },
+              {
+                label: "GitHub",
+                href: "https://github.com/topworklytechnologies/go-microx",
+              },
+              {
+                label: "LinkedIn",
+                href: "https://www.linkedin.com/in/topworkly",
+              },
+              { label: "X (Twitter)", href: "https://x.com/topworkly" },
             ],
           },
           {
@@ -99,11 +112,14 @@ const config = {
             items: [
               { label: "Go (Golang)", href: "https://go.dev" },
               { label: "Docker Docs", href: "https://docs.docker.com" },
-              { label: "Microservices Guide", href: "https://microservices.io" },
+              {
+                label: "Microservices Guide",
+                href: "https://microservices.io",
+              },
             ],
           },
         ],
-        copyright: `Made with ❤️ by Abhishek Kushwaha. Copyright © ${new Date().getFullYear()} go-microx. Built with Docusaurus.`,
+        copyright: `Made with ❤️ by TopWorkly Technologies Pvt. Ltd. Copyright © ${new Date().getFullYear()} go-microx. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/abhishekkushwahaa/go-microx/cmd"
+	"github.com/topworklytechnologies/go-microx/cmd"
 )
 
 func main() {

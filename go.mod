@@ -1,4 +1,4 @@
-module github.com/abhishekkushwahaa/go-microx
+module github.com/topworklytechnologies/go-microx
 
 go 1.22.1
 

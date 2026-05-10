@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/abhishekkushwahaa/go-microx/internal/generator"
+	"github.com/topworklytechnologies/go-microx/internal/generator"
 	"github.com/fatih/color"
 	"github.com/manifoldco/promptui"
 	"github.com/spf13/cobra"

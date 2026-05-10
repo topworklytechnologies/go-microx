@@ -4,11 +4,11 @@
 
 **The Ultimate Microservices Scaffolding Tool for Go**
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/abhishekkushwahaa/go-microx)](https://goreportcard.com/report/github.com/abhishekkushwahaa/go-microx)
+[![Go Report Card](https://goreportcard.com/badge/github.com/topworklytechnologies/go-microx)](https://goreportcard.com/report/github.com/topworklytechnologies/go-microx)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Go Version](https://img.shields.io/github/go-mod/go-version/abhishekkushwahaa/go-microx)](https://github.com/abhishekkushwahaa/go-microx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/abhishekkushwahaa)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x)](https://x.com/AbhishekKushwaa)
+[![Go Version](https://img.shields.io/github/go-mod/go-version/topworklytechnologies/go-microx)](https://github.com/topworklytechnologies/go-microx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/topworkly)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x)](https://x.com/topwokly)
 [![Docs](https://img.shields.io/badge/Documentation-FF4500?style=flat-square)](https://go-microx.vercel.app/docs/intro)
 
 **go-microx** is a high-performance CLI tool built to eliminate the complexity of bootstrapping microservices architectures in Go.
@@ -38,7 +38,7 @@ Building microservices from scratch is repetitive and error-prone. **go-microx**
 Install the **go-microx** binary directly to your `$GOPATH/bin`:
 
 ```bash
-go install github.com/abhishekkushwahaa/go-microx/cmd/go-microx@latest
+go install github.com/topworklytechnologies/go-microx/cmd/go-microx@latest
 ```
 
 ## Usage

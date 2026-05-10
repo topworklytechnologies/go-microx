@@ -15,7 +15,7 @@ Before installing, ensure you have the following requirements met:
 The easiest way to install **go-microx** is using the `go install` command:
 
 ```bash
-go install github.com/abhishekkushwahaa/go-microx/cmd/go-microx@latest
+go install github.com/topworklytechnologies/go-microx/cmd/go-microx@latest
 ```
 
 Ensure your `$GOPATH/bin` is in your system's `PATH` to run the command globally.
@@ -35,5 +35,5 @@ If everything is set up correctly, you should see the current version of the too
 To update to the latest version, simply run the installation command again:
 
 ```bash
-go install github.com/abhishekkushwahaa/go-microx/cmd/go-microx@latest
+go install github.com/topworklytechnologies/go-microx/cmd/go-microx@latest
 ```

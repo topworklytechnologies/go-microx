@@ -27,7 +27,7 @@ We are committed to providing a welcoming and inspiring community for all. By pa
 
 ### Reporting Bugs
 
-If you find a bug, please help us by [opening an issue](https://github.com/abhishekkushwahaa/go-microx/issues). A good bug report includes:
+If you find a bug, please help us by [opening an issue](https://github.com/topworklytechnologies/go-microx/issues). A good bug report includes:
 
 - A clear, descriptive title.
 - Steps to reproduce the problem.
@@ -47,7 +47,7 @@ We're always looking for ways to improve! To suggest an enhancement, please open
 
 If you're looking to dive into the code:
 
-1. Browse the [issues](https://github.com/abhishekkushwahaa/go-microx/issues) for any tasks labeled `help wanted` or `good first issue`.
+1. Browse the [issues](https://github.com/topworklytechnologies/go-microx/issues) for any tasks labeled `help wanted` or `good first issue`.
 2. Comment on the issue to let us know you're working on it.
 3. If it's a new feature, please open an issue first to discuss the design before starting work.
 
@@ -69,7 +69,7 @@ If you're looking to dive into the code:
    ```
 3. **Add the upstream remote**:
    ```bash
-   git remote add upstream https://github.com/abhishekkushwahaa/go-microx.git
+   git remote add upstream https://github.com/topworklytechnologies/go-microx.git
    ```
 4. **Create a branch** for your work:
    ```bash
@@ -84,7 +84,7 @@ If you're looking to dive into the code:
 2. Update the `README.md` or `docs/` if you've added new features or changed behaviors.
 3. Verify that all tests pass: `go test ./...`.
 4. Push your changes to your fork.
-5. Submit a [Pull Request](https://github.com/abhishekkushwahaa/go-microx/pulls) against the `main` branch.
+5. Submit a [Pull Request](https://github.com/topworklytechnologies/go-microx/pulls) against the `main` branch.
 6. A maintainer will review your PR. Be prepared to address feedback!
 
 ## Commit Message Guidelines
