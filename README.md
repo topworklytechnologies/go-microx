@@ -128,7 +128,3 @@ We love community contributions! Check out our [Contributing Guidelines](CONTRIB
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-<div align="center">
-Built with interest by <a href="https://github.com/abhishekkushwahaa">Abhishek Kushwaha</a>
-</div>
