@@ -106,5 +106,5 @@ Example: `feat(cli): add interactive auth selection`
 By contributing to **go-microx**, you agree that your contributions will be licensed under its [MIT License](LICENSE).
 
 <div align="center">
-Thank you for your contribution!
+Thank you for your contribution! 
 </div>
